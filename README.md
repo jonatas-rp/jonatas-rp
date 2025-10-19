@@ -15,7 +15,7 @@ I’m a Software Engineer with hands-on experience building scalable backend sys
 
 My work often combines cloud-native infrastructure, IaC, and DevOps automation — using AWS CDK, CloudFormation, and GitHub Actions to deliver reliable CI/CD pipelines.
 
-I’ve also architected event-driven systems using SQS, RabbitMQ, and Celery for asynchronous job processing. Built data pipelines that integrate for log analytics and monitoring. And, developed authentication and authorization systems with Oauth2, OIDC, SAML.
+I’ve also architected event-driven systems using SQS, RabbitMQ, and Celery for asynchronous job processing. Built data pipelines that integrate for log analytics and monitoring. I have extensive experience in JWT validation, Oauth2, OIDC, SAML for building authentication and authorization systems.
 
 ## 👨‍💻 Skills
 
