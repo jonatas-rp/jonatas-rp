@@ -11,19 +11,21 @@ __DevOps & Backend | AWS | Python | Go__
 
 ## 🧍 About me
 
-I’m a Software Engineer with hands-on experience building scalable backend systems, APIs, and data pipelines across AWS and containerized environments. I specialize in Python and Go, leveraging frameworks like FastAPI, Django, and Gin to develop high-performance REST services.
+I design and build backend platforms that power distributed systems at scale.
 
-My work often combines cloud-native infrastructure, IaC, and DevOps automation — using AWS CDK, CloudFormation, and GitHub Actions to deliver reliable CI/CD pipelines.
+My work centers on event-driven architectures, workflow orchestration, and asynchronous job execution frameworks on AWS. I’ve contributed to building internal orchestration platforms that replace managed workflow services, enabling flexible, composable infrastructure and distributed service execution.
 
-I’ve also architected event-driven systems using SQS, RabbitMQ, and Celery for asynchronous job processing. Built data pipelines that integrate for log analytics and monitoring. I have extensive experience in JWT validation, Oauth2, OIDC, SAML for building authentication and authorization systems.
+I specialize in Python for high-performance backend systems, and I design cloud-native architectures using AWS CDK and CloudFormation. I focus on reliability, scalability, and creating reusable infrastructure abstractions that improve developer velocity.
+
+Beyond service development, I build CI/CD automation, observability pipelines, and secure auth systems.
 
 ## 👨‍💻 Skills
 
-- __Programming__ - Golang, Python, Bash
+- __Programming__ - Python, Go, Node.js
 - __Cloud__ - AWS
 - __CI/CD Pipelines__ - AWS CodePipeline, Github Actions
-- __Containers__ - Kubernetes, Docker
-- __Infra as Code__ - Terraform, CloudFormation, AWS CDK (Cloud Development Kit)
+- __Containers__ - Kubernetes, Docker, Docker-compose
+- __Infrastructure as Code__ - Terraform, CloudFormation, AWS CDK (Cloud Development Kit)
 - __Observability__ -  Grafana, Cloudwatch
 
 ## 🥇 Certifications
